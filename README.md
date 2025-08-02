@@ -1,10 +1,11 @@
 # Ghost
-💎 hello I am a fan of minecraft and I like programming in Python
+💎 Hello I am Ghost and i like programming in Python
 
 💼 Known programming languages:
-Python
-C++
-C#
+Python --- Sr.Dev
+C++ --- Dev
+C# --- Dev
+Lua --- Jr.Dev
 
 🌍 Known languages: 
 English
