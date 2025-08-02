@@ -1,5 +1,5 @@
-# Codex
-💎 hello I am a fan of minecraft and I like programming in java
+# Ghost
+💎 hello I am a fan of minecraft and I like programming in Python
 
 💼 Known programming languages:
 Python
