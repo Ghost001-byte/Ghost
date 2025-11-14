@@ -1,11 +1,11 @@
-# Ghost
-💎 Hello I am Ghost and i like programming in Python
+# Kernel
+💎 Hello I am Kernel and i like programming in Python
 
 💼 Known programming languages:
 Python --- Sr.Dev
-C++ --- Dev
-C# --- Dev
-Lua --- Jr.Dev
+Html (not a programming language) --- Dev
+
+⚙️ Minecraft pluginner
 
 🌍 Known languages: 
 English
