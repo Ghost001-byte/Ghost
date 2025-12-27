@@ -12,3 +12,5 @@ English
 Italian
 
 🌴Learning Java and JavaScript
+
+# If you need help join the discord server: https://discord.gg/EpXaPhsyj8 
