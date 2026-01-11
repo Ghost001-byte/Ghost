@@ -2,6 +2,7 @@
 💎 Hello I am Kernel and i like programming in Python
 
 💼 Known programming languages:
+
 Java --- Jr.Dev
 
 Python --- Sr.Dev
